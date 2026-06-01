@@ -1,5 +1,5 @@
 {
-    "base_url": "https://raw.githubusercontent.com/umatl-ru/hachimi-tl-ru/main/localized_data",
-    "zip_url": "https://codeload.github.com/umatl-ru/hachimi-tl-ru/zip/refs/heads/main",
+    "base_url": "https://raw.githubusercontent.com/AlexForUMA/hachimi-tl-ru/main/localized_data",
+    "zip_url": "https://codeload.github.com/AlexForUMA/hachimi-tl-ru/zip/refs/heads/main",
     "zip_dir": "hachimi-tl-ru-main/localized_data"
 }
