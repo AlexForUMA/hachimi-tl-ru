@@ -1,19 +1,25 @@
 {
     "ordinal_types": [],
     "months": [],
-    "use_text_wrapper": false,
-    "auto_adjust_story_clip_length": false,
+
+    "use_text_wrapper": true,
+    "text_wrapper": 1,
+    "line_width_multiplier": 1.75,
+    "auto_adjust_story_clip_length": true,
+    "story_line_count_offset": 1,
+    "text_frame_line_spacing_multiplier": 0.8,
+    "text_frame_font_size_multiplier": 0.85,
+    "skill_list_item_desc_font_size_multiplier": 0.9,
     "text_common_allow_overflow": false,
-    "now_loading_comic_title_ellipsis": false,
+    "now_loading_comic_title_ellipsis": true,
     "remove_ruby": true,
+
     "assets_dir": "assets",
     "text_data_dict": "text_data_dict.json",
     "character_system_text_dict": "character_system_text_dict.json",
-	"race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
-	"race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
-	
+    "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
+    "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
     "localize_dict": "localize_dict.json",
     "extra_asset_bundle": {"windows": "font", "android": "font_android"},
     "replacement_font_name": "assets/fonts/Calibri-Bold.ttf"
-
 }
