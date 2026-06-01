@@ -1,3 +1,6 @@
 gen_index2.py
 sources
 _reference_en/
+_batch.json
+_merge.py
+_work_missing_ui.json
