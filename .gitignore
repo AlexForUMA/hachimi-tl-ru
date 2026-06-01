@@ -4,3 +4,5 @@ _reference_en/
 _batch.json
 _merge.py
 _work_missing_ui.json
+_work_localize_dump.json
+_work_dump_missing.json
