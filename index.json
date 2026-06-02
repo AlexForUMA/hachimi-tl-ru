@@ -48515,8 +48515,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "dc9a16d4eb88caa4f640eef6ff4240dc736350771872f3635dc639d34e58f7d4",
-      "size": 1543271
+      "hash": "3257d44e92bfe7e95652a31752abc5858a1b559cc1c100f065dda8e2a3fa3394",
+      "size": 1573424
     },
     {
       "path": "config.json",
@@ -48555,8 +48555,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "4219d243dfe74f50902b8bd6fac78e1a71655203628368963a41f4a513d544fa",
-      "size": 3291655
+      "hash": "4a84ac2c5804ba561f278aab2976c396c159609805c95082b086868cd8945355",
+      "size": 3292009
     }
   ]
 }
