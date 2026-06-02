@@ -4,6 +4,11 @@
   "zip_dir": "hachimi-tl-ru-main/localized_data",
   "files": [
     {
+      "path": "_ПРОДОЛЖИТЬ_ОТСЮДА.md",
+      "hash": "0ace1df9c2a2c35439711fa4118532d6f93bbcdc20c0aae9df10a9950fbb9e67",
+      "size": 6044
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
       "hash": "c3951b4c0cf11e3b0525fa2efb00c3c394d743bdb7b22f7a56a83469f5160b2d",
       "size": 51562
@@ -48515,8 +48520,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "3257d44e92bfe7e95652a31752abc5858a1b559cc1c100f065dda8e2a3fa3394",
-      "size": 1573424
+      "hash": "3d56cd4a58c645b107be43c4694ade5eeacc90041ceb5632add3cf73f28f260c",
+      "size": 1573418
     },
     {
       "path": "config.json",
@@ -48555,8 +48560,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "4a84ac2c5804ba561f278aab2976c396c159609805c95082b086868cd8945355",
-      "size": 3292009
+      "hash": "3b611584420e4fefac8536d8bb86607c50e4f939283d9ca2dafa003b06dbee17",
+      "size": 3291999
     }
   ]
 }
