@@ -10,3 +10,5 @@ _titles_ru.json
 _apply_titles.py
 _fix_n_tags.py
 _work_jp_titles.json
+
+_apply_help.py
