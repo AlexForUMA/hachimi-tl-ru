@@ -48520,8 +48520,8 @@
     },
     {
       "path": "config.json",
-      "hash": "fa493485364a78197f6964a58d1a5793ea195f29e590f317eb9df7cd87bb0a46",
-      "size": 922
+      "hash": "8d5511ec1bd70f32a41eac2b9fdf8c12ca8761f33abbe58e249ce1cd8158c0a4",
+      "size": 961
     },
     {
       "path": "font",
@@ -48540,8 +48540,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "737754f885ec13c0fa4e9482d28c6424ebced5c9448220014c4a6075b7aab34c",
-      "size": 698785
+      "hash": "6816cb6b8bbf68d2e290fdb42a67b6da9337b66f55bcb84ce19bc28fa36ea46e",
+      "size": 698747
     },
     {
       "path": "race_jikkyo_comment_dict.json",
