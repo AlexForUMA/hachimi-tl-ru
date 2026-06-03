@@ -36,3 +36,7 @@ _enrace.py
 _chknames.py
 _dump.txt
 _work_gentildonna_cst.json
+_apply_races.py
+_analyze_races.py
+_race_learn.py
+_race_uncov.py
