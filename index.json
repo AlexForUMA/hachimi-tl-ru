@@ -5,8 +5,8 @@
   "files": [
     {
       "path": "_ПРОДОЛЖИТЬ_ОТСЮДА.md",
-      "hash": "c74626bc5cbec51813cbb8919176cee7ba5b2d0d54d77b8f8a465f28ecc85c27",
-      "size": 9065
+      "hash": "9c880ba4390f4ff0401397650d47b33ad135788c2dd89618b64b7574c3a8e860",
+      "size": 7814
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
@@ -48560,8 +48560,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "aeed18941c6c85558febeb552316b4004c2683cde8c884f89e5a8b0f31088edd",
-      "size": 3846846
+      "hash": "883fb0e92ec2d45796baa9a47ea8cf064f1811539940836ca879f36c4922e2a8",
+      "size": 4019494
     }
   ]
 }
