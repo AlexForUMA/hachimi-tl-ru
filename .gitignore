@@ -53,3 +53,6 @@ _apply_skillnames6.py
 _apply_skillnames7.py
 _apply_skilldesc.py
 _apply_golddesc.py
+_dump_cat48.py
+_work_cat48_batch.json
+_apply_cat48batch.py
