@@ -4,11 +4,6 @@
   "zip_dir": "hachimi-tl-ru-main/localized_data",
   "files": [
     {
-      "path": "_ПРОДОЛЖИТЬ_ОТСЮДА.md",
-      "hash": "9c880ba4390f4ff0401397650d47b33ad135788c2dd89618b64b7574c3a8e860",
-      "size": 7814
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
       "hash": "c3951b4c0cf11e3b0525fa2efb00c3c394d743bdb7b22f7a56a83469f5160b2d",
       "size": 51562
