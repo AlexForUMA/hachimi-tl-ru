@@ -1,5 +1,6 @@
 gen_index2.py
 sources
+localized_data/_*.md
 _reference_en/
 _batch.json
 _merge.py
